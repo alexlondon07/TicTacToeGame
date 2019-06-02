@@ -29,10 +29,10 @@ react-native run-android
 ## Applicaction
 
 ```python
-
-
-
-
 ```
+
+Gif:
+
+![alt text](https://github.com/alexlondon07/TicTacToeGame/blob/master/public/gif/tictactoegame.gif "Game")
 
 ## Alexander Andrés Londoño Espejo
